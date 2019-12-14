@@ -272,6 +272,16 @@
 			]
 		},
 		{
+			"name": "Save Unnamed",
+			"details": "https://github.com/oakkitten/save_unnamed",
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"tags": true
+				}
+			]
+		},
+		{
 			"name": "SBT Runner",
 			"details": "https://github.com/chiappone/Sublime-SBT-Runner",
 			"releases": [
